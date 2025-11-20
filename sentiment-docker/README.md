@@ -31,8 +31,8 @@ AI-powered sentiment analysis API using AWS Bedrock Nova for company-specific se
 ```bash
 docker pull <your-dockerhub-username>/sentiment-docker:latest
 
-docker run -e AWS_ACCESS_KEY_ID=your-key \
-  -e AWS_SECRET_ACCESS_KEY=your-secret \
+docker run -e AWS_ACCESS_KEY_ID=your-access-key \
+  -e AWS_SECRET_ACCESS_KEY=your-secret-key \
   -e S3_BUCKET_NAME=kandidat-26-data \
   -p 8080:8080 \
   <your-dockerhub-username>/sentiment-docker:latest
