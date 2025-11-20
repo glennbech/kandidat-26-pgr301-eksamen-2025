@@ -123,3 +123,4 @@ This application demonstrates modern DevOps practices:
 ## License
 
 Educational project for PGR301 DevOps course.
+# Test deployment
