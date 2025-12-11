@@ -12,7 +12,12 @@ AI-powered sentiment analysis API using AWS Bedrock Nova for company-specific se
 
 
 
-## Technology Stack
+
+
+
+
+
+asas## Technology Stack
 
 - **Java 21** with Spring Boot 3.2
 - **AWS Bedrock** for AI-powered analysis
