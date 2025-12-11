@@ -10,6 +10,8 @@ AI-powered sentiment analysis API using AWS Bedrock Nova for company-specific se
 - **CloudWatch metrics** for observability
 - **REST API** for easy integration
 
+
+
 ## Technology Stack
 
 - **Java 21** with Spring Boot 3.2
